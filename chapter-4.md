@@ -1,5 +1,5 @@
-CHAPTER IV.
-The Rabbit Sends in a Little Bill
+# CHAPTER IV.
+## The Rabbit Sends in a Little Bill
 
 
 It was the White Rabbit, trotting slowly back again, and looking
@@ -62,6 +62,8 @@ one elbow against the door, and the other arm curled round her head.
 Still she went on growing, and, as a last resource, she put one arm out
 of the window, and one foot up the chimney, and said to herself “Now I
 can do no more, whatever happens. What _will_ become of me?”
+
+![Alice is squished in a small house because she is too big](img/illustration-11.png)
 
 Luckily for Alice, the little magic bottle had now had its full effect,
 and she grew no larger: still it was very uncomfortable, and, as there
@@ -164,6 +166,8 @@ then the Rabbit’s voice along—“Catch him, you by the hedge!” then
 silence, and then another confusion of voices—“Hold up his head—Brandy
 now—Don’t choke him—How was it, old fellow? What happened to you? Tell
 us all about it!”
+
+![A lizard coming out of a chimney](img/illustration-13.png)
 
 Last came a little feeble, squeaking voice, (“That’s Bill,” thought
 Alice,) “Well, I hardly know—No more, thank ye; I’m better now—but I’m
