@@ -3,3 +3,12 @@ body {
     font-size: 14px;
     line-height: 1.6;
 }
+html {
+    max-width: 960px;
+}
+img { 
+    max-width: 400px;
+}
+figure {
+    padding: 5%;
+}
